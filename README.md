@@ -9,7 +9,7 @@
 | **Submission No.** | Github Link |
 | ----------- | ----------- |
 | Assignment 1 | [Click Here](https://github.com/errhythm/CSE438/tree/main/Assignment%201) |
-| Assignment 2 | | 
+| Assignment 2 | [Click Here](https://github.com/errhythm/CSE438/tree/main/Assignment%202) |
 | Project |  | |
 
 
